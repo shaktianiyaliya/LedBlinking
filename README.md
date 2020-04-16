@@ -1,1 +1,1 @@
-this led blinking code using standar library
+this led blinking code using standard library
